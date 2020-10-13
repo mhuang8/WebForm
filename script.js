@@ -11,7 +11,7 @@ function setup(){
 
 function draw(){
   // Sets the canvas background every frame
-  
+  background(247, 247, 247);
   fill(247, 247, 247);
   strokeWeight(2)
   ellipse(mouseX,mouseY,10);
